@@ -1,5 +1,3 @@
-import React from "react";
-
 function Header() {
     return (
         <header className="text-gray-600 body-font">

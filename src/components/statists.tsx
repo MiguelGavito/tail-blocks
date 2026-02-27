@@ -1,5 +1,3 @@
-import React from "react"
-
 // Define la "interface" del parametro
 interface Stats {
   Users: number;
